@@ -1,10 +1,10 @@
-# Runiverse Scaffolding System
+# 🏗️ Project Infrastructure Scaffolding
 
-A comprehensive scaffolding and tooling system for multi-agent AI development workflows, extracted from the Runiverse AI project.
+## 🎯 Complete Development Systems
 
-## Overview
+This scaffolding package contains **two production-ready systems** extracted from the Runiverse AI project:
 
-This repository contains battle-tested scaffolding tools and systems that help manage complex multi-agent development workflows, documentation, testing, and sprint management.
+**📖 [COMPLETE INSTALLATION GUIDE](./INSTALL.md)** ← Start here!
 
 ## ⚡ Quick Install 
 
